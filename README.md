@@ -1,4 +1,4 @@
-# Curriculum Vitae – Jenny Vanesa Ortiz Jerez
+#  Jenny Vanesa Ortiz Jerez
 
 Bienvenidos/as a mi repositorio de CV. Soy *Analista de Datos*, con experiencia en análisis de inventarios, métricas comerciales y desarrollo de dashboards en Power BI para e-commerce.
 

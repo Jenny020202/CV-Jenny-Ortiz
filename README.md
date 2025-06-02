@@ -6,10 +6,10 @@ Bienvenidos/as a mi repositorio de CV. Soy *Analista de Datos*, con experiencia 
 
 ##  Sobre mí
 
--  Localidad: [Tu ciudad], [Tu país]  
--  Email: [tu email]  
--  Teléfono: [tu número de contacto]  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) | [GitHub](https://github.com/tuusuario)
+-  Localidad:   Medellin, Colombia  
+-  Email: vanesaortiz0202@gmail.com 
+-  Teléfono: 3152538584  
+- 🔗 www.linkedin.com/in/jenny-ortiz-723a45210 | https://github.com/Jenny020202
 
 ---
 

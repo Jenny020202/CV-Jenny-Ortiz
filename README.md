@@ -6,8 +6,8 @@ Bienvenidos/as a mi repositorio de CV. Soy *Analista de Datos*, con experiencia 
 
 ##  Sobre mí
 
--  Localidad:   Colombia  
--  Email: vanesaortiz0202@gmail.com  
+
+
 - 🔗 www.linkedin.com/in/jenny-ortiz-723a45210 | https://github.com/Jenny020202
 
 ---

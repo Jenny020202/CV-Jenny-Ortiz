@@ -6,9 +6,8 @@ Bienvenidos/as a mi repositorio de CV. Soy *Analista de Datos*, con experiencia 
 
 ##  Sobre mí
 
--  Localidad:   Medellin, Colombia  
--  Email: vanesaortiz0202@gmail.com 
--  Teléfono: 3152538584  
+-  Localidad:   Colombia  
+-  Email: vanesaortiz0202@gmail.com  
 - 🔗 www.linkedin.com/in/jenny-ortiz-723a45210 | https://github.com/Jenny020202
 
 ---
@@ -23,9 +22,7 @@ Bienvenidos/as a mi repositorio de CV. Soy *Analista de Datos*, con experiencia 
 
 ---
 
-##  CV en PDF
 
- [Descargar mi CV](./JennyOrtiz_CV.pdf)
 
 ---
 
